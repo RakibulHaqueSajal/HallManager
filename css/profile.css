@@ -1,0 +1,97 @@
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 36px;
+}
+.jumbotron{
+    height: 200px;
+    overflow: hidden;
+}
+
+.jumbotron #details{
+    position: absolute;
+    color: white;
+}
+
+.jumbotron #details span{
+    color: lightblue;
+}
+
+.jumbotron img{
+    width: 100%;
+}
+#subsection
+{
+    background-image: url(./img/bluebackground.jpg);
+    
+
+}
+.panel-default{
+    text-align:center;
+    cursor:pointer;
+    font-family: 'Raleway',sans-serif;
+}
+
+.panel-default i{
+    font-size: 5em;
+    }
+footer{
+    margin-top: 30px;
+    background:black;
+    height:50px;
+    line-height: 50px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+footer .container a{
+    text-decoration: none;
+    color: blue;
+}
+
+footer .container a:hover{
+    color: lightblue;
+}
+.center {
+    margin-top:50px;   
+}
+
+.modal-header {
+	padding-bottom: 5px;
+}
+
+.modal-footer {
+    	padding: 0;
+	}
+    
+.modal-footer .btn-group button {
+	height:40px;
+	border-top-left-radius : 0;
+	border-top-right-radius : 0;
+	border: none;
+	border-right: 1px solid #ddd;
+}
+	
+.modal-footer .btn-group:last-child > button {
+	border-right: 0;
+}
+span.input-group-addon i {
+    color: #009edf;
+    font-size: 17px;
+}
+.form-control {
+    height: auto!important; 
+    padding: 8px 12px !important;
+}
+.input-group {
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}

@@ -1,0 +1,23 @@
+body
+{
+    background-image: url(../img/bluebackground.jpg);
+}
+h1
+{
+    font-size: 32px;
+    border-left-color: yellow;
+}
+.panel-default{
+    text-align:center;
+    cursor:pointer;
+    font-family: 'Raleway',sans-serif;
+}
+
+.panel-default i{
+    font-size: 5em;
+    }
+.panel-large
+{
+    text-align: centre;
+    
+}

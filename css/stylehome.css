@@ -1,0 +1,27 @@
+body
+{
+    background-color: darkturquoise;
+    
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+#introjumb
+{
+    background-color: skyblue;
+    width: 250 px;
+    width: 35 px;
+    
+}
+#niche
+{
+    background-color: lightseagreen;
+    margin: 0px,5px,auto ;
+    text-align: center;
+}
+#copyright
+{
+    text-align: right ;
+    
+}

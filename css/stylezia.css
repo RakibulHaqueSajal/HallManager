@@ -1,0 +1,34 @@
+#body
+{
+    background-color: darkturquoise;
+}
+#upore
+{
+    width: auto;
+    height: auto;
+    background-color: darkturquoise;
+    overflow:auto;
+    
+}
+#main
+{
+    width: auto;
+    height: auto;
+    background-color: darkturquoise;
+    overflow:auto;
+    
+}
+#jumbosec
+{
+  
+    background-color: darkturquoise;
+}
+#copyright
+{
+    text-align: right;
+}
+#j4
+{
+    padding: 5px,5px,5px,5px;
+
+}
